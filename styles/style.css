@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#mainArea {
+    border: 2px solid black;
+    position: relative;
+    height: 400px;
+    width: 70%;
+    left: 15%;
+    right: 15%;
+    margin-top: 10%;
+}
+
+#bottomSection {
+    position: relative;
+    left: 25%;
+    right: 25%;
+    bottom: -4px;
+    width: 50%;
+}
+
+#battleArea {
+    position: relative;
+    height: inherit;
+}
+
+
+/* Standard Widths */
+
+.col-1 {
+    width: 8%;
+}
+
+.col-2 {
+    width: 16.33%;
+}
+
+.col-3 {
+    width: 24%;
+}
+
+.col-4 {
+    width: 32%;
+}
+
+.col-5 {
+    width: 41.33%;
+}
+
+.col-6 {
+    width: 49%;
+}
+
+.col-7 {
+    width: 58%;
+}
+
+.col-8 {
+    width: 66.33%;
+}
+
+.col-9 {
+    width: 74%;
+}
+
+.col-10 {
+    width: 83%;
+}
+
+.col-11 {
+    width: 91.33%;
+}
+
+.col-12 {
+    width: 100%;
+}
